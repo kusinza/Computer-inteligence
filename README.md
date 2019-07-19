@@ -1,10 +1,7 @@
 # Computer-inteligence SOM
 self-organizing map in C++
 
-The MNIST data set of handwritten digits, it consists of 5000 examples, each of
-which corresponds to one column.
-each has been reshaped from a 28 by 28 gray-level image into a 784-dimensional
-feature vector
+The MNIST data set of handwritten digits
 
 1. Initialization: Choose random values for the initial weight vectors wj(0).
 From 0 to i where i is the number of neurons in the lattice. The magnitude
